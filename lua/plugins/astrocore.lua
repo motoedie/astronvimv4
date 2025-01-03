@@ -35,6 +35,7 @@ return {
         wrap = false, -- sets vim.opt.wrap
         list = true,
         colorcolumn = "120",
+        termguicolors = true,
       },
       g = { -- vim.g.<key>
         -- configure global vim variables (vim.g)
