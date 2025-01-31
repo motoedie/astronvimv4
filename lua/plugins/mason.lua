@@ -25,6 +25,7 @@ return {
         "stylua",
         "sql-formatter",
         "biome",
+        "vtsls",
         -- add more arguments for adding more null-ls sources
       },
     },
